@@ -1,0 +1,3 @@
+[submodule "javascript-login-form"]
+	path = javascript-login-form
+	url = https://github.com/developer-job-simulation/javascript-login-form.git
